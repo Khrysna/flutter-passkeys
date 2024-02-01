@@ -25,7 +25,8 @@ dependencies:
     sdk: flutter
   json_annotation: ^4.8.1
   openapi_generator_annotations: ^4.10.0
-  passkeys_android: ^2.0.0
+  passkeys_android:
+    path: ./../passkeys_android
   passkeys_ios: ^2.0.0
   passkeys_platform_interface: ^2.0.0
   passkeys_web: ^2.0.0
